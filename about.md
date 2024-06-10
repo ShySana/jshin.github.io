@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Heyo! I’m a generalist with interests in aircraft, programming, geopolitics, K-pop, and photography.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[josephshin019@gmail.com](mailto:josephshin019@gmail.com)
